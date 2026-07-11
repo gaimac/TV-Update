@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.0.6",
-  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.6/TV.apk",
-  "changelog": "修正部份功能",
+  "versionCode": 7,
+  "versionName": "1.0.7",
+  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.7/TV.apk",
+  "changelog": "修正詳情會關閉APP",
   "forceUpdate": true
 }
