@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.8",
-  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.8/TV.apk",
-  "changelog": "新增楓林網",
+  "versionCode": 9,
+  "versionName": "1.0.9",
+  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.9/TV.apk",
+  "changelog": "修正部份bug,設定頁改為兩排",
   "forceUpdate": true
 }
