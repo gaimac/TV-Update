@@ -1,0 +1,87 @@
+{
+  "version": 1,
+  "updated": "2026-08-01",
+  "note": "由管理員審核後手動更新，使用者上報僅作為參考",
+  "repos": {
+    "CYCANI": [
+      {
+        "domain": "vhub.babel.gold",
+        "filterMode": "NONE",
+        "referer": "https://player.cycanime.com/",
+        "needCors": true
+      }
+    ],
+    "XIAOBAOTV": [
+      {
+        "domain": "slb.jimxtc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/",
+        "needCors": true
+      },
+      {
+        "domain": "jimxtc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/",
+        "needCors": true
+      }
+    ],
+    "8MAPLE": [
+      {
+        "domain": "lzcdn28.com",
+        "filterMode": "NUMERIC",
+        "referer": "https://play.8maple.st/",
+        "needCors": true
+      },
+      {
+        "domain": "kkzycdn.com",
+        "filterMode": "PATH_ID",
+        "referer": "https://play.8maple.st/",
+        "needCors": true
+      }
+    ],
+    "MISSAV": [
+      {
+        "domain": "surrit.com",
+        "filterMode": "NONE",
+        "referer": "https://missav.ws/",
+        "needCors": true
+      }
+    ],
+    "NJAVTV": [
+      {
+        "domain": "surrit.com",
+        "filterMode": "NONE",
+        "referer": "https://njavtv.com/",
+        "needCors": true
+      }
+    ],
+    "DBKUTV": [],
+    "LIBVIO": [],
+    "DOUYIN": [
+      {
+        "domain": "douyinvod.com",
+        "filterMode": "NONE",
+        "referer": "",
+        "needCors": false
+      },
+      {
+        "domain": "bytetos.com",
+        "filterMode": "NONE",
+        "referer": "",
+        "needCors": false
+      },
+      {
+        "domain": "byteimg.com",
+        "filterMode": "NONE",
+        "referer": "",
+        "needCors": false
+      },
+      {
+        "domain": "byteacctimg.com",
+        "filterMode": "NONE",
+        "referer": "",
+        "needCors": false
+      }
+    ]
+  }
+}
