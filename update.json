@@ -1,7 +1,7 @@
 {
-  "versionCode": 15,
-  "versionName": "1.0.15",
-  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.15/TV.apk",
-  "changelog": "修正錯誤,UI修改,app效能修正,去廣告校正. \n 修正幅度較大,繼續測試!  2026-08-06",
+  "versionCode": 16,
+  "versionName": "1.0.16",
+  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.16/TV.apk",
+  "changelog": "修正去廣告開啟後無效. \n 廣告過濾採雲端共享,繼續測試!  2026-08-06",
   "forceUpdate": false
 }
