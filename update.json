@@ -1,7 +1,7 @@
 {
-  "versionCode": 17,
-  "versionName": "1.0.17",
-  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.17/TV.apk",
+  "versionCode": 18,
+  "versionName": "1.0.18",
+  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.18/TV.apk",
   "changelog": "播放UI程式碼重構,修正部份bug,繼續測試!  2026-08-08",
   "forceUpdate": false
 }
