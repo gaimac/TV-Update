@@ -1,7 +1,7 @@
 {
   "versionCode": 20,
-  "versionName": "1.0.20",
-  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.20/TV.apk",
-  "changelog": "修正快取,繼續測試!  \n\n 2026-08-11",
+  "versionName": "1.0.21",
+  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.21/TV.apk",
+  "changelog": "次元城必須註冊帳號密碼才可以使用!  \n\n 2026-08-12",
   "forceUpdate": false
 }
