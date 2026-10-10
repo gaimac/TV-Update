@@ -2,6 +2,6 @@
   "versionCode": 23,
   "versionName": "1.0.24",
   "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.24/TV.apk",
-  "changelog": "刪除AI判別,修正搜尋頁面保留上次畫面\n修正廣告過濾功能\n修正劇迷藍光片源播放\n\n 2026-08-27",
+  "changelog": "刪除AI判別,修正搜尋頁面保留上次畫面\n修正廣告過濾功能\n修正劇迷藍光片源播放\n\n 2026-10-10",
   "forceUpdate": false
 }
