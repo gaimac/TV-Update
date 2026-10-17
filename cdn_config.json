@@ -1,13 +1,30 @@
 {
-  "version": 1,
-  "updated": "2026-08-01",
-  "note": "由管理員審核後手動更新，使用者上報僅作為參考",
+  "version": 5,
+  "updated": "2026-10-18",
   "repos": {
-    "CYCANI": [
+    "8MAPLE": [
       {
-        "domain": "vhub.babel.gold",
-        "filterMode": "NONE",
-        "referer": "https://player.cycanime.com/",
+        "domain": "lzcdn28.com",
+        "filterMode": "NUMERIC",
+        "referer": "https://play.8maple.st/",
+        "needCors": true
+      },
+      {
+        "domain": "kkzycdn.com",
+        "filterMode": "PATH_ID",
+        "referer": "https://play.8maple.st/",
+        "needCors": true
+      },
+      {
+        "domain": "bfikuncdn.com",
+        "filterMode": "PATH_ID",
+        "referer": "",
+        "needCors": true
+      },
+      {
+        "domain": "v.lfthirtytwo.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "",
         "needCors": true
       }
     ],
@@ -23,19 +40,31 @@
         "filterMode": "DISCONTINUITY",
         "referer": "https://www.xiaobaotv.tv/",
         "needCors": true
-      }
-    ],
-    "8MAPLE": [
+      },
       {
-        "domain": "lzcdn28.com",
-        "filterMode": "NUMERIC",
-        "referer": "https://play.8maple.st/",
+        "domain": "vip.dytt-network.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "",
         "needCors": true
       },
       {
-        "domain": "kkzycdn.com",
-        "filterMode": "PATH_ID",
-        "referer": "https://play.8maple.st/",
+        "domain": "play.phimgood.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-tvs.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "",
+        "needCors": true
+      }
+    ],
+    "CYCANI": [
+      {
+        "domain": "vhub.babel.gold",
+        "filterMode": "NONE",
+        "referer": "https://player.cycanime.com/",
         "needCors": true
       }
     ],
@@ -55,8 +84,6 @@
         "needCors": true
       }
     ],
-    "DBKUTV": [],
-    "LIBVIO": [],
     "DOUYIN": [
       {
         "domain": "douyinvod.com",
@@ -83,5 +110,15 @@
         "needCors": false
       }
     ]
-  }
+  },
+  "adSignatures": [
+    [
+      4,
+      4,
+      4,
+      4,
+      4,
+      2
+    ]
+  ]
 }
