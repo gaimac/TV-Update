@@ -1,6 +1,6 @@
 {
-  "version": 5,
-  "updated": "2026-10-18",
+  "version": 7,
+  "updated": "2026-11-23",
   "repos": {
     "8MAPLE": [
       {
@@ -18,13 +18,43 @@
       {
         "domain": "bfikuncdn.com",
         "filterMode": "PATH_ID",
-        "referer": "",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35267852.html",
         "needCors": true
       },
       {
         "domain": "v.lfthirtytwo.com",
         "filterMode": "DISCONTINUITY",
-        "referer": "",
+        "referer": "https://play.8maple.st/play/RSYC-8-1.html",
+        "needCors": true
+      },
+      {
+        "domain": "v.lzcdn27.com",
+        "filterMode": "NUMERIC",
+        "referer": "https://play.8maple.st/play/2ZYC-4-2.html",
+        "needCors": true
+      },
+      {
+        "domain": "v.lzcdn31.com",
+        "filterMode": "NUMERIC",
+        "referer": "https://gimyai.tw/detail/482594.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.lz-cdn8.com",
+        "filterMode": "NUMERIC",
+        "referer": "https://play.8maple.st/play/oESC-1-1.html",
+        "needCors": true
+      },
+      {
+        "domain": "cdn.yzzy31-play.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "kkzycdn.com:65",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35267852.html",
         "needCors": true
       }
     ],
@@ -44,19 +74,43 @@
       {
         "domain": "vip.dytt-network.com",
         "filterMode": "DISCONTINUITY",
-        "referer": "",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35268138.html",
         "needCors": true
       },
       {
         "domain": "play.phimgood.com",
         "filterMode": "DISCONTINUITY",
-        "referer": "",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35267808.html",
         "needCors": true
       },
       {
         "domain": "vip.dytt-tvs.com",
         "filterMode": "DISCONTINUITY",
         "referer": "",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-cinema.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35185330.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-tv.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35204366.html",
+        "needCors": true
+      },
+      {
+        "domain": "cnvod.jimxtc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35269535.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.ryplay14.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35267852.html",
         "needCors": true
       }
     ],
@@ -109,9 +163,532 @@
         "referer": "",
         "needCors": false
       }
+    ],
+    "DBKUTV": [
+      {
+        "domain": "vid.dbokutv.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.dbku.tv/voddetail/151523.html",
+        "needCors": true
+      }
+    ],
+    "GIMYTV": [
+      {
+        "domain": "aws.shenhua7.vip",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/232023.html",
+        "needCors": true
+      },
+      {
+        "domain": "bf.modujx11.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/419458.html",
+        "needCors": true
+      },
+      {
+        "domain": "bf.modujx17.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "cdn.ryplay12.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35263931.html",
+        "needCors": true
+      },
+      {
+        "domain": "cdn.vvvip-plays33.cc",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "cdn.yzzy28-play.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "cdn.yzzy30-play.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "cdn.yzzy32-play.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "cn1.jimxtc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "fengbao12.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimytv.biz/voddetail/30861.html",
+        "needCors": true
+      },
+      {
+        "domain": "fengbao13.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/908927.html",
+        "needCors": true
+      },
+      {
+        "domain": "hnts.ymuuy.com:65",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "jimaoys75.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/916791.html",
+        "needCors": true
+      },
+      {
+        "domain": "jimaoys88.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/924445.html",
+        "needCors": true
+      },
+      {
+        "domain": "jimaoys92.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/482594.html",
+        "needCors": true
+      },
+      {
+        "domain": "jimaoys94.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "jimaoys96.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/920463.html",
+        "needCors": true
+      },
+      {
+        "domain": "m3u8.gcncsm.cn",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/419458.html",
+        "needCors": true
+      },
+      {
+        "domain": "mujizybf04.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/391747.html",
+        "needCors": true
+      },
+      {
+        "domain": "p.jisuts.com:999",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "play.dyttzyv.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "play.modujx11.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/419458.html",
+        "needCors": true
+      },
+      {
+        "domain": "play.modujx16.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/298812.html",
+        "needCors": true
+      },
+      {
+        "domain": "play.modujx17.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "player.yzzyvip-35.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/391747.html",
+        "needCors": true
+      },
+      {
+        "domain": "qd-tjwq-person.tjtele.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/908927.html",
+        "needCors": true
+      },
+      {
+        "domain": "super.ffzy-online6.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/908927.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.czzyplay.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/932037.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.ryiplay18.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/917439.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.xgplay13.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/419458.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.xgplay15.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/419458.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.xgplay17.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/924861.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.xgplay18.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/419458.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.xgplay2.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/232023.html",
+        "needCors": true
+      },
+      {
+        "domain": "svip.xgplay20.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/479773.html",
+        "needCors": true
+      },
+      {
+        "domain": "tyyszywvod2.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/917021.html",
+        "needCors": true
+      },
+      {
+        "domain": "v11.wujinwsyts.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "v12.ppqrrs.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/917021.html",
+        "needCors": true
+      },
+      {
+        "domain": "v12.wujinwsyts.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "v13.qqqrst.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimytv.biz/voddetail/36509.html",
+        "needCors": true
+      },
+      {
+        "domain": "v13.wsyzyts.vip",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/925102.html",
+        "needCors": true
+      },
+      {
+        "domain": "v14.wsyzyts.vip",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/478654.html",
+        "needCors": true
+      },
+      {
+        "domain": "v14.yaaabc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/917021.html",
+        "needCors": true
+      },
+      {
+        "domain": "v15.wsyzyts.vip",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/420167.html",
+        "needCors": true
+      },
+      {
+        "domain": "v15.yaaabc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/916625.html",
+        "needCors": true
+      },
+      {
+        "domain": "v3.adfg8.vip",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "v3.qrssuv.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "v7.wujinwsyts.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "v9.wujinwsyts.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/245516.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-cine.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35263931.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-hot.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/141594.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-kan.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/927180.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-movies.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35251394.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip.dytt-see.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.xiaobaotv.tv/movie/detail/35267568.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip17.jimxtc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/932037.html",
+        "needCors": true
+      },
+      {
+        "domain": "vip20.jimxtc.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/925102.html",
+        "needCors": true
+      },
+      {
+        "domain": "vod1.maowushi.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/920463.html",
+        "needCors": true
+      },
+      {
+        "domain": "vod2.maowushi.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/124913.html",
+        "needCors": true
+      },
+      {
+        "domain": "vodcnd09.ky32e.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "vodcnd16.uvjtih.cn",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/901397.html",
+        "needCors": true
+      },
+      {
+        "domain": "vodcnd17.uvjtih.cn",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/901397.html",
+        "needCors": true
+      },
+      {
+        "domain": "www.shenhua7.vip",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/908927.html",
+        "needCors": true
+      },
+      {
+        "domain": "yyv13.qwe132456.cc",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimytv.biz/voddetail/36509.html",
+        "needCors": true
+      },
+      {
+        "domain": "yyv14.qwe132456.cc",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/917021.html",
+        "needCors": true
+      },
+      {
+        "domain": "yyv15.qwe132456.cc",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/916625.html",
+        "needCors": true
+      },
+      {
+        "domain": "yzzy.play-cdn17.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "yzzy.play-cdn19.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      },
+      {
+        "domain": "yzzy1.play-cdn16.com",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://gimyai.tw/detail/243159.html",
+        "needCors": true
+      }
+    ],
+    "LIBVIO": [
+      {
+        "domain": "play3.nbyjson.top:889",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.libvio.lat/play/5812911-3-1.html",
+        "needCors": true
+      },
+      {
+        "domain": "www.libvio.lat",
+        "filterMode": "DISCONTINUITY",
+        "referer": "https://www.libvio.lat/play/5813076-8-1.html",
+        "needCors": true
+      }
     ]
   },
   "adSignatures": [
+    [
+      3,
+      6,
+      1
+    ],
+    [
+      4,
+      4,
+      4,
+      4,
+      4
+    ],
+    [
+      4,
+      4,
+      4
+    ],
+    [
+      4,
+      5,
+      3,
+      4,
+      4,
+      1
+    ],
+    [
+      6,
+      3,
+      6
+    ],
+    [
+      3,
+      2
+    ],
+    [
+      6,
+      3
+    ],
+    [
+      6,
+      2
+    ],
+    [
+      4,
+      5,
+      4,
+      6,
+      3,
+      4,
+      4,
+      4,
+      4
+    ],
+    [
+      6,
+      3,
+      2
+    ],
+    [
+      6,
+      3,
+      6,
+      3,
+      2
+    ],
+    [
+      7,
+      3
+    ],
+    [
+      4,
+      4,
+      4,
+      4,
+      4,
+      4,
+      3
+    ],
+    [
+      2,
+      4,
+      4,
+      4,
+      7,
+      3
+    ],
+    [
+      2,
+      3,
+      4
+    ],
     [
       4,
       4,
@@ -119,6 +696,15 @@
       4,
       4,
       2
+    ],
+    [
+      7,
+      3,
+      3
+    ],
+    [
+      6,
+      1
     ]
   ]
 }
