@@ -1,7 +1,7 @@
 {
-  "versionCode": 27,
-  "versionName": "1.0.27",
-  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.27/TV.apk",
-  "changelog": "修正紅果短劇無法播放\n修正劇迷搜尋問題\n\n 2026-11-23",
+  "versionCode": 28,
+  "versionName": "1.0.28",
+  "apkUrl": "https://github.com/gaimac/TV-Update/releases/download/v1.0.28/TV.apk",
+  "changelog": "移除紅果短劇,因為變動率太大\n把紅果短劇寫成另一個app\n\n 2026-11-26",
   "forceUpdate": false
 }
